@@ -1,0 +1,7 @@
+D:\Project\inject_memory_assembly\assembly_sample\bin\Debug\assembly_sample.exe.config
+D:\Project\inject_memory_assembly\assembly_sample\bin\Debug\assembly_sample.exe
+D:\Project\inject_memory_assembly\assembly_sample\bin\Debug\assembly_sample.pdb
+D:\Project\inject_memory_assembly\assembly_sample\obj\Debug\assembly_sample.csproj.AssemblyReference.cache
+D:\Project\inject_memory_assembly\assembly_sample\obj\Debug\assembly_sample.csproj.CoreCompileInputs.cache
+D:\Project\inject_memory_assembly\assembly_sample\obj\Debug\assembly_sample.exe
+D:\Project\inject_memory_assembly\assembly_sample\obj\Debug\assembly_sample.pdb

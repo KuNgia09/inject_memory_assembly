@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\Project\inject_memory_assembly\reflective_dll_assembly\dllmain.cpp(89,7): warning C4101: “isloaded”: 未引用的局部变量
+D:\Project\inject_memory_assembly\reflective_dll_assembly\dllmain.cpp(198,11): warning C4101: “converted”: 未引用的局部变量
+  ReflectiveLoader.c
+    正在创建库 D:\Project\inject_memory_assembly\x64\Release\reflective_dll_assembly.lib 和对象 D:\Project\inject_memory_assembly\x64\Release\reflective_dll_assembly.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\Project\inject_memory_assembly\reflective_dll_assembly\dllmain.cpp(224): warning C4715: “LoadAssembly2”: 不是所有的控件路径都返回值
+  All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  reflective_dll_assembly.vcxproj -> D:\Project\inject_memory_assembly\x64\Release\reflective_dll_assembly.dll

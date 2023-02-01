@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\Project\inject_memory_assembly\reflective_dll_assembly\dllmain.cpp(89,7): warning C4101: “isloaded”: 未引用的局部变量
+D:\Project\inject_memory_assembly\reflective_dll_assembly\dllmain.cpp(198,11): warning C4101: “converted”: 未引用的局部变量
+D:\Project\inject_memory_assembly\reflective_dll_assembly\dllmain.cpp(243,36): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPVOID”
+D:\Project\inject_memory_assembly\reflective_dll_assembly\dllmain.cpp(224): warning C4715: “LoadAssembly2”: 不是所有的控件路径都返回值
+    正在创建库 D:\Project\inject_memory_assembly\x64\Debug\reflective_dll_assembly.lib 和对象 D:\Project\inject_memory_assembly\x64\Debug\reflective_dll_assembly.exp
+  reflective_dll_assembly.vcxproj -> D:\Project\inject_memory_assembly\x64\Debug\reflective_dll_assembly.dll
